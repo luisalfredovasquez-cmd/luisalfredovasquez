@@ -6,7 +6,7 @@ Presentación de mi área técnica.
 1. Conocimientos Técnicos desde como domar una IA hasta como automatizar los procesos.
 2. Utilización de n8n.
 3. Programación
-## Mi proyecto más significatiivo este año ha sido la aplicación de los sistemas de DEMERITOS y manejo de Perfiles de estudiantes que estan en el siguiente enlace [ver sistemas] (https://insavi.biz/)
+## Mi proyecto más significatiivo este año ha sido la aplicación de los sistemas de DEMERITOS y manejo de Perfiles de estudiantes que estan en el siguiente enlace (https://insavi.biz/)
 ## 📩 Contacto
 Si tienes alguna duda o quieres colaborar en algún proyecto educativo, puedes encontrarme en:
 
